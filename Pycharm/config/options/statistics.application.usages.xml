@@ -1,0 +1,48 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type-temp">
+      <project id="CodeForces" values="PythonConfigurationType" collectionTime="1439563471584" />
+      <project id="ValidPan" values="PythonConfigurationType" collectionTime="1437885239248" />
+      <project id="Leetcode" values="PythonConfigurationType" collectionTime="1438010673749" />
+    </group>
+    <group name="vcs">
+      <project id="CodeForces" values="Git" collectionTime="1439563471582" />
+    </group>
+    <group name="file-type">
+      <project id="Leetcode" values="C++,UNKNOWN,PLAIN_TEXT,Python,XML" collectionTime="1438010673773" />
+      <project id="B.py" values="UNKNOWN,Python" collectionTime="1436121835838" />
+      <project id="LeetCode" values="XML,PLAIN_TEXT,UNKNOWN,Python" collectionTime="1436121769507" />
+      <project id="ValidPan" values="C++,Python,PLAIN_TEXT,UNKNOWN,XML" collectionTime="1437885239256" />
+      <project id="APAC1" values="XML,Python,PLAIN_TEXT,C++,UNKNOWN" collectionTime="1438006684523" />
+      <project id="CodeForces" values="Python,PLAIN_TEXT,XML,UNKNOWN" collectionTime="1439563471604" />
+    </group>
+    <group name="py-interpreter">
+      <project id="Leetcode" values="Python 2.7.4" collectionTime="1438010673774" />
+      <project id="B.py" values="Python 2.7.4" collectionTime="1436121835838" />
+      <project id="LeetCode" values="Python 2.7.4" collectionTime="1436121769532" />
+      <project id="ValidPan" values="Python 2.7.4" collectionTime="1437885239256" />
+      <project id="APAC1" values="Python 2.7.4" collectionTime="1438006684553" />
+      <project id="CodeForces" values="Python 2.7.4,Python 2.7.4" collectionTime="1439563471610" />
+    </group>
+    <group name="module type">
+      <project id="Leetcode" values="PYTHON_MODULE" collectionTime="1438010673749" />
+      <project id="B.py" values="PYTHON_MODULE" collectionTime="1436121835826" />
+      <project id="LeetCode" values="PYTHON_MODULE" collectionTime="1436121769476" />
+      <project id="ValidPan" values="PYTHON_MODULE" collectionTime="1437885239248" />
+      <project id="APAC1" values="PYTHON_MODULE" collectionTime="1438006684438" />
+      <project id="CodeForces" values="PYTHON_MODULE" collectionTime="1439563471583" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.PythonConfigurationType.Run" count="23" />
+      <entry feature="ide.settings.Appearance" count="2" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Font" count="2" />
+      <entry feature="ide.settings.Project_Interpreter" count="1" />
+      <entry feature="ideaapp.started" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
+      <entry feature="welcome.screen.null" count="1" />
+    </counts>
+  </component>
+</application>

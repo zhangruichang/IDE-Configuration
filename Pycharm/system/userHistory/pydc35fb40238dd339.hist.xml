@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><console-history version="1" id="E:\Algorithm\Codeforces\Python">
+  <history-entry><![CDATA[(2+3)%7]]></history-entry>
+  <history-entry><![CDATA[print dp]]></history-entry>
+  <history-entry><![CDATA[dp=[[0]*2]]*3]]></history-entry>
+  <history-entry><![CDATA[dp=[[0 for col in range(3)] for row in range(2)]]]></history-entry>
+  <history-entry><![CDATA[dp]]></history-entry>
+</console-history>

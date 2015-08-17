@@ -1,0 +1,15 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="494" y="67" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="714" y="364" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="421" y="195" />
+    <location key="SettingsEditor.0.0.1366.768" x="190" y="48" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="168" y="32" />
+    <location key="#CF316Div2ProC.0.0.1366.768" x="456" y="20" />
+    <location key="EditParametersPopupWindow.0.0.1366.768" x="542" y="236" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1282" height="175" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1282" height="175" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1282" height="175" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1282" height="175" />
+  </component>
+</application>

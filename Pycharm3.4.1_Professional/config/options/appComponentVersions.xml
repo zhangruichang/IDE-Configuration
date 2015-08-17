@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<versions>
+  <component name="AbbreviationManager" version="1439793782936" />
+  <component name="BaseRefactoringSettings" version="1439534277717" />
+  <component name="CodeInsightSettings" version="1439793782938" />
+  <component name="CodeStyleSchemeSettings" version="1439793782938" />
+  <component name="DaemonCodeAnalyzerSettings" version="1439793782938" />
+  <component name="DimensionService" version="1439793782939" />
+  <component name="EditorColorsManagerImpl" version="1439793782939" />
+  <component name="EditorSettings" version="1439793782939" />
+  <component name="Encoding" version="1439793782939" />
+  <component name="ExportableFileTemplateSettings" version="1439793782939" />
+  <component name="ExportableTemplateSettings" version="1439460551341" />
+  <component name="FeatureUsageStatistics" version="1439793782940" />
+  <component name="FileBasedIndex" version="1439793782940" />
+  <component name="FileTypeManager" version="1439793782945" />
+  <component name="FindSettings" version="1439793782945" />
+  <component name="GeneralSettings" version="1439793782945" />
+  <component name="Git.Application.Settings" version="1439793782946" />
+  <component name="HttpConfigurable" version="1439793782946" />
+  <component name="KeymapManager" version="1439793782947" />
+  <component name="LafManager" version="1439793782947" />
+  <component name="LanguageInjectionConfiguration" version="1439793782947" />
+  <component name="NotificationConfiguration" version="1439793782947" />
+  <component name="PathMacrosImpl" version="1439793782947" />
+  <component name="PluginManagerConfigurable" version="1439793950571" />
+  <component name="ProjectJdkTable" version="1439793782948" />
+  <component name="ProjectManager" version="1439793782948" />
+  <component name="PropertiesComponent" version="1439793782948" />
+  <component name="PyPackageService" version="1439794062177" />
+  <component name="RecentDirectoryProjectsManager" version="1439793783012" />
+  <component name="Registry" version="1439793783012" />
+  <component name="RunnerLayoutSettings" version="1439534277742" />
+  <component name="StatisticsApplicationUsages" version="1439793783013" />
+  <component name="TemplateSettings" version="1439460551352" />
+  <component name="TodoConfiguration" version="1439793783014" />
+  <component name="UISettings" version="1439793783014" />
+  <component name="UpdatesConfigurable" version="1439793783014" />
+  <component name="UsageTrigger" version="1439793783014" />
+  <component name="UsagesStatistic" version="1439793783016" />
+  <component name="WebBrowsersConfiguration" version="1439793783017" />
+  <component name="WebServers" version="1439793783017" />
+  <component name="WindowManager" version="1439794078932" />
+  <component name="XDebuggerSettings" version="1439793783018" />
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl" version="1439793783020" />
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl" version="1439793783020" />
+</versions>
+

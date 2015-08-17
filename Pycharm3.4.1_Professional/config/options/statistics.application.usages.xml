@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="module type">
+      <project id="MapReduceWordCount" values="PYTHON_MODULE" />
+      <project id="WordCount" values="PYTHON_MODULE" />
+      <project id="DataMiningLib" values="PYTHON_MODULE" />
+      <project id="Test" values="PYTHON_MODULE" />
+      <project id="newscrawler" values="PYTHON_MODULE" />
+      <project id="AlibabaRecommand" values="PYTHON_MODULE" />
+      <project id="qiyu_mars" values="PYTHON_MODULE" />
+    </group>
+    <group name="vcs">
+      <project id="DataMiningLib" values="svn" />
+      <project id="newscrawler" values="Git" />
+      <project id="AlibabaRecommand" values="Git" />
+      <project id="qiyu_mars" values="Git,svn" />
+    </group>
+    <group name="file-type">
+      <project id="MapReduceWordCount" values="UNKNOWN,Python,PLAIN_TEXT,XML" />
+      <project id="WordCount" values="XML,UNKNOWN" />
+      <project id="DataMiningLib" values="ARCHIVE,Bash,XML,UNKNOWN,PLAIN_TEXT,Python,Ini" />
+      <project id="Test" values="XML,UNKNOWN,Python" />
+      <project id="newscrawler" values="UNKNOWN,XML,Python,PLAIN_TEXT" />
+      <project id="AlibabaRecommand" values="Python,UNKNOWN,XML,SQL" />
+      <project id="qiyu_mars" values="Bash,UNKNOWN,PLAIN_TEXT,Python,XML,ARCHIVE,Ini" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="DataMiningLib" values="PythonConfigurationType" />
+      <project id="Test" values="PythonConfigurationType" />
+      <project id="qiyu_mars" values="BashConfigurationType,PythonConfigurationType" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="MapReduceWordCount" values="Project,Project" />
+      <project id="WordCount" values="Project,Project" />
+      <project id="DataMiningLib" values="Project,Project" />
+      <project id="Test" values="Project,Project" />
+      <project id="newscrawler" values="Project,Project" />
+      <project id="AlibabaRecommand" values="Project,Project" />
+      <project id="qiyu_mars" values="Project,Project" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="MapReduceWordCount" values="DEFAULT" />
+      <project id="WordCount" values="DEFAULT" />
+      <project id="DataMiningLib" values="DEFAULT" />
+      <project id="Test" values="DEFAULT" />
+      <project id="newscrawler" values="DEFAULT" />
+      <project id="AlibabaRecommand" values="DEFAULT" />
+      <project id="qiyu_mars" values="DEFAULT" />
+    </group>
+    <group name="py-interpreter">
+      <project id="MapReduceWordCount" values="Python 2.7.5" />
+      <project id="WordCount" values="Python 2.7.5" />
+      <project id="DataMiningLib" values="Python 2.7.5,Python 2.7.5,Python 2.7.5" />
+      <project id="Test" values="Python 2.7.5" />
+      <project id="newscrawler" values="Python 2.7.5" />
+      <project id="AlibabaRecommand" values="Python 2.7.5" />
+      <project id="qiyu_mars" values="Python 2.7.5,Python 2.7.5,Python 2.7.5,Python 2.7.5,Python 2.7.5" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="NewDirectoryProjectAction.Empty project" count="6" />
+      <entry feature="execute.BashConfigurationType.Run" count="1" />
+      <entry feature="execute.PythonConfigurationType.Debug" count="2" />
+      <entry feature="execute.PythonConfigurationType.Run" count="38" />
+      <entry feature="ide.settings.Bash" count="4" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Font" count="3" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ideaapp.started" count="13" />
+    </counts>
+  </component>
+</application>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.4 (D:\Program files\Python27\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.4" />
+      <homePath value="D:\Program files\Python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Program files/Python27/DLLs" />
+            <root type="simple" url="file://D:/Program files/Python27/Lib" />
+            <root type="simple" url="file://D:/Program files/Python27/Lib/lib-tk" />
+            <root type="simple" url="file://D:/Program files/Python27" />
+            <root type="simple" url="file://D:/Program files/Python27/Lib/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-793569567" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
+

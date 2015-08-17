@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
-  <component name="DimensionService">
-    <location key="FileChooserDialogImpl.0.0.1680.1050" x="623" y="187" />
-    <location key="WELCOME_SCREEN.0.0.1680.1050" x="839" y="234" />
-  </component>
-  <component name="LafManager">
-    <laf class-name="com.incors.plaf.alloy.AlloyIdea" />
-  </component>
   <component name="PropertiesComponent">
     <property name="log.debug.categories" value="" />
     <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
@@ -18,7 +10,7 @@
     <property name="PyCharm.InitialConfiguration.V5" value="true" />
     <property name="fileTypeChangedCounter" value="1" />
     <property name="PyCharm.initialConfigurationShown" value="true" />
-    <property name="file.chooser.recent.files" value="D:/MyEclipseWorkspace/qiyu_mars&#10;E:/Algorithm/Leetcode/Python&#10;E:/Leetcode&#10;E:/HackerRank/Algorithm&#10;E:/HackerRank/Algorithm/ValidPan&#10;E:/FindingInternship/APAC1&#10;D:/MyPythonWorkspace/LeetCode" />
+    <property name="file.chooser.recent.files" value="E:/Algorithm/Leetcode/Python&#10;E:/Leetcode&#10;E:/HackerRank/Algorithm&#10;E:/HackerRank/Algorithm/ValidPan&#10;E:/FindingInternship/APAC1&#10;D:/MyPythonWorkspace/LeetCode" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="lastTip" value="1" />
     <property name="file.colors.enable.non.project" value="494539" />
@@ -31,7 +23,5 @@
     <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="RunConfigurable.dividerProportion" value="0.3" />
-    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="true" />
   </component>
 </application>
-

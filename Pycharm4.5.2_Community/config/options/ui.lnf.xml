@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="UISettings">
     <option name="FONT_FACE" value="Consolas" />
@@ -6,4 +5,3 @@
     <option name="HIDE_TOOL_STRIPES" value="false" />
   </component>
 </application>
-

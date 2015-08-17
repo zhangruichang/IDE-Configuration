@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="ProjectManager">
     <defaultProject version="4">
-      <component name="DaemonCodeAnalyzer">
-        <disable_hints />
+      <component name="NamedScopeManager">
+        <order />
       </component>
-      <component name="DependencyValidationManager">
-        <option name="SKIP_IMPORT_STATEMENTS" value="false" />
-      </component>
-      <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
       <component name="ProjectInspectionProfilesVisibleTreeState">
         <entry key="Project Default">
           <profile-state>
@@ -53,9 +48,6 @@
           </console-settings>
         </option>
       </component>
-      <component name="RunManager">
-        <list size="0" />
-      </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
       </component>
@@ -77,4 +69,3 @@
     </defaultProject>
   </component>
 </application>
-

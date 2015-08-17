@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
-  <component name="FileTypeManager" version="11">
+  <component name="FileTypeManager" version="14">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
-    <extensionMap />
   </component>
 </application>
-

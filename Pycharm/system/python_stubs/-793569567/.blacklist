@@ -1,6 +1,0 @@
-# PyCharm failed to generate skeletons for these modules.
-# These skeletons will be re-generated automatically
-# when a newer module version or an updated generator becomes available.
-D:\Program files\Python27\lib\site-packages\matplotlib\backends\_tkagg.pyd = 1.136 1364293414000
-D:\Program files\Python27\lib\site-packages\matplotlib\backends\_backend_gdk.pyd = 1.136 1364293414000
-D:\Program files\Python27\lib\site-packages\matplotlib\backends\_gtkagg.pyd = 1.136 1364293418000
